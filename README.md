@@ -13,3 +13,10 @@ npm build
 npm start
 (Ctrl+C)
 ```
+
+
+path | page
+---- | ----
+/           | Hello World!
+/index.html | TypeScript x React
+
