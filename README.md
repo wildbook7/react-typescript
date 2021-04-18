@@ -9,8 +9,8 @@ https://ja.reactjs.org/docs/hooks-state.html
 
 ```
 npm i
-npm build
-npm start
+npm run build
+npm run start
 (Ctrl+C)
 ```
 
